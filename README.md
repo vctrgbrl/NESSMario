@@ -1,2 +1,2 @@
 # NESSMario
-NES Super Mario clone coding exercise C++
+NES Super Mario clone, coding exercise C++
